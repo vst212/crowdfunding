@@ -10,7 +10,7 @@
   "dependencies": {
     "@ethersproject/constants": "^5.4.0",
     "bignumber.js": "^9.0.2",
-    "core-js": "^3.6.5",
+    "core-js": "^3.26.1",
     "element-ui": "^2.15.6",
     "jsbi": "^3.2.4",
     "vue": "^2.6.11",
